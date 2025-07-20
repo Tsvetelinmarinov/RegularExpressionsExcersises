@@ -1,0 +1,15 @@
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\bin\Debug\net8.0\Draft.exe
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\bin\Debug\net8.0\Draft.deps.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\bin\Debug\net8.0\Draft.runtimeconfig.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\bin\Debug\net8.0\Draft.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\bin\Debug\net8.0\Draft.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.AssemblyInfoInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.AssemblyInfo.cs
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.csproj.CoreCompileInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.sourcelink.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\refint\Draft.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\Draft.genruntimeconfig.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\Regex\RegularExpressionsExcersises\Draft\obj\Debug\net8.0\ref\Draft.dll
